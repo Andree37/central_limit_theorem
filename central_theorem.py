@@ -33,7 +33,7 @@ def count_numbers(numbers):
 def live_roll(i):
     # Limit of the exercise
     global rolled_times
-    if rolled_times > 10000:
+    if rolled_times > 2000:
         return
 
     # Clear the axis to write on them again
