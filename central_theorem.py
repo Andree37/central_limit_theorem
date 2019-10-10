@@ -12,7 +12,7 @@ def numbers_generator():
     print(random_numbers)
     return random_numbers
 
-
+#Test
 # Calculates the average of a list
 def average_calculation(random_numbers):
     numbers_sum = 0
